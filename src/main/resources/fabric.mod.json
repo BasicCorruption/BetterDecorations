@@ -3,23 +3,26 @@
 	"id": "betterdeco",
 	"version": "${version}",
 	"name": "Better Decorations",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This mod adds some cool decoration blocks to the game. Mostly non-functional.",
 	"authors": [
-		"Me!"
+		"SidGames5"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "",
+		"sources": "https://github.com/BasicCorruption/BetterDecorations"
 	},
-	"license": "CC0-1.0",
+	"license": "LGPL-2.1",
 	"icon": "assets/betterdeco/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.sidgames5.ExampleMod"
+			"com.sidgames5.betterdeco.BetterDeco"
+		],
+		"client": [
+			"com.sidgames5.betterdeco.BetterDecoClient"
 		],
 		"fabric-datagen": [
-			"com.sidgames5.ExampleModDataGenerator"
+			"com.sidgames5.betterdeco.BetterDecoDataGen"
 		]
 	},
 	"mixins": [
@@ -32,6 +35,5 @@
 		"fabric-api": "*"
 	},
 	"suggests": {
-		"another-mod": "*"
 	}
 }

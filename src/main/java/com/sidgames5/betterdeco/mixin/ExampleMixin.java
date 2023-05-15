@@ -1,4 +1,4 @@
-package com.sidgames5.mixin;
+package com.sidgames5.betterdeco.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;
