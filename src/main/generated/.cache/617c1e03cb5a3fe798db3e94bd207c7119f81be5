@@ -1,9 +1,11 @@
-// 1.19.3	2023-05-16T16:58:03.7701766	Better Decorations/Recipes
-c808224f9b46c006c453e7db562978bb57bf1467 data\betterdeco\advancements\recipes\decorations\paper_ream.json
+// 1.19.3	2023-05-16T17:21:56.3140603	Better Decorations/Recipes
 70b4c6872f7e487eb55f03306f79d3146651bc31 data\betterdeco\recipes\plastic_block.json
-2af746593a5dc46439b942b6eac5b6e368b70e2f data\betterdeco\advancements\recipes\decorations\plastic_block.json
+7d669e766ed4b5f30b733852ead37aac3cea96e7 data\betterdeco\recipes\sealed_paper_ream.json
 a66976eafdf5d0cc303dd99f97bd838540635c68 data\betterdeco\advancements\recipes\decorations\paper.json
 5d8cbed4bd59f7e320615bf629201fa02d5b7d8e data\betterdeco\recipes\plastic_sheet_from_smelting_glass.json
+c808224f9b46c006c453e7db562978bb57bf1467 data\betterdeco\advancements\recipes\decorations\paper_ream.json
+2af746593a5dc46439b942b6eac5b6e368b70e2f data\betterdeco\advancements\recipes\decorations\plastic_block.json
+525168b62880f1676defa9d58a892ab5d12b6507 data\betterdeco\advancements\recipes\misc\sealed_paper_ream.json
 b9bbde44854005bf40aca83b725728fa0482bc46 data\betterdeco\recipes\paper_ream.json
 4ff1b348452a2414929bad8f6026a9dc95e33ba9 data\betterdeco\advancements\recipes\decorations\plastic_sheet.json
 f9099876b519ac21a5b6cf3b57c51f387048f649 data\betterdeco\recipes\paper.json

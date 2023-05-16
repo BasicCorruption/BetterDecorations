@@ -1,8 +1,11 @@
-// 1.19.3	2023-05-16T16:58:03.7691188	Better Decorations/Model Definitions
-542a49c445d2b9a2b5e5cb247dd036675ebfce92 assets\betterdeco\models\item\plastic_sheet.json
+// 1.19.3	2023-05-16T17:21:56.3124142	Better Decorations/Model Definitions
 084e79baae95c32fb1ef11c4c17b7d28bbe7d0ca assets\betterdeco\models\block\plastic_block.json
+542a49c445d2b9a2b5e5cb247dd036675ebfce92 assets\betterdeco\models\item\plastic_sheet.json
 8ed205e58dcb0f8c2648ccf3ea0f8563bbd3dfc7 assets\betterdeco\blockstates\plastic_block.json
+04594e6be5c2e774d1e2a459261189548f3f4719 assets\betterdeco\models\block\sealed_paper_ream.json
 1e10d938672989661bdb3fc52afd7374b5cc22c2 assets\betterdeco\models\item\plastic_block.json
 7335d0a228fdf95ddad695753d69ab15a27a9214 assets\betterdeco\models\block\paper_ream.json
 49fce0b81c1d86a31c2d0046d3b1a29fbd955058 assets\betterdeco\models\item\paper_ream.json
+e43d32e9239878e5c4dbfee10368f7afc6a639b9 assets\betterdeco\models\item\sealed_paper_ream.json
 243cba6ef92e5b890d3bd3d72a3d985132836b92 assets\betterdeco\blockstates\paper_ream.json
+f528e4caf2bb77ed33d9135fc0ca439b8a3ee6b7 assets\betterdeco\blockstates\sealed_paper_ream.json

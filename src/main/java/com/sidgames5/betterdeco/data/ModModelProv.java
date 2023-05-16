@@ -17,6 +17,7 @@ public class ModModelProv extends FabricModelProvider {
     public void generateBlockStateModels(BlockStateModelGenerator blockStateModelGenerator) {
         blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.PAPER_REAM);
         blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.PLASTIC_BLOCK);
+        blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.SEALED_PAPER_REAM);
     }
 
     @Override

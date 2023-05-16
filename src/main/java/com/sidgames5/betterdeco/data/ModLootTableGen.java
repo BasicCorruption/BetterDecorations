@@ -19,5 +19,6 @@ public class ModLootTableGen extends FabricBlockLootTableProvider {
     public void generate() {
         addDrop(ModBlocks.PAPER_REAM, LootTable.builder().pool(LootPool.builder().rolls(ConstantLootNumberProvider.create(9.0F)).with(ItemEntry.builder(Items.PAPER))));
         addDrop(ModBlocks.PLASTIC_BLOCK);
+        addDrop(ModBlocks.SEALED_PAPER_REAM);
     }
 }

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "betterdeco:paper_ream"
+    },
+    "P": {
+      "item": "betterdeco:plastic_sheet"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "PBP",
+    "PPP"
+  ],
+  "result": {
+    "item": "betterdeco:sealed_paper_ream"
+  }
+}
