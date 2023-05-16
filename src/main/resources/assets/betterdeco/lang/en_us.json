@@ -1,5 +1,7 @@
 {
   "item.betterdeco.test_item": "Test Item",
+  "item.betterdeco.plastic_sheet": "Plastic Sheet",
 
-  "block.betterdeco.paper_ream": "Ream Of Paper"
+  "block.betterdeco.paper_ream": "Ream of Paper",
+  "block.betterdeco.plastic_block": "Block of Plastic"
 }
