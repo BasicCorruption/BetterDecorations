@@ -13,7 +13,7 @@ import net.minecraft.util.Identifier;
 
 public class ModItems {
     // Items
-    //public static final Item TEST_ITEM = registerItem("test_item", new Item(new FabricItemSettings()));
+    public static final Item PLASTIC_SHEET = registerItem("plastic_sheet", new Item(new FabricItemSettings()));
 
 
 
@@ -24,7 +24,7 @@ public class ModItems {
     }
 
     public static void addItemsToGroups() {
-        //addToGroup(ItemGroups.INGREDIENTS, TEST_ITEM);
+        addToGroup(ItemGroups.INGREDIENTS, PLASTIC_SHEET);
     }
 
 

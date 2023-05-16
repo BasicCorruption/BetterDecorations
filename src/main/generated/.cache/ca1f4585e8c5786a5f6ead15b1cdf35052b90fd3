@@ -1,4 +1,8 @@
-// 1.19.3	2023-05-16T16:11:41.3063779	Better Decorations/Model Definitions
+// 1.19.3	2023-05-16T16:58:03.7691188	Better Decorations/Model Definitions
+542a49c445d2b9a2b5e5cb247dd036675ebfce92 assets\betterdeco\models\item\plastic_sheet.json
+084e79baae95c32fb1ef11c4c17b7d28bbe7d0ca assets\betterdeco\models\block\plastic_block.json
+8ed205e58dcb0f8c2648ccf3ea0f8563bbd3dfc7 assets\betterdeco\blockstates\plastic_block.json
+1e10d938672989661bdb3fc52afd7374b5cc22c2 assets\betterdeco\models\item\plastic_block.json
 7335d0a228fdf95ddad695753d69ab15a27a9214 assets\betterdeco\models\block\paper_ream.json
 49fce0b81c1d86a31c2d0046d3b1a29fbd955058 assets\betterdeco\models\item\paper_ream.json
 243cba6ef92e5b890d3bd3d72a3d985132836b92 assets\betterdeco\blockstates\paper_ream.json

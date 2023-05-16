@@ -2,4 +2,11 @@
 
 ## Additions
 
+### Blocks
+
 - Ream Of Paper
+- Block Of Plastic
+
+### Items
+
+- Plastic Sheet

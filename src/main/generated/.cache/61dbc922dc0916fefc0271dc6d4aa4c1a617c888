@@ -1,2 +1,3 @@
-// 1.19.3	2023-05-16T16:11:41.3075352	Better Decorations/Block Loot Tables
+// 1.19.3	2023-05-16T16:58:03.7696456	Better Decorations/Block Loot Tables
 cc2fcf1c1f65b15559c315a8545bc2a3ffcd4e4e data\betterdeco\loot_tables\blocks\paper_ream.json
+564814b49acebe15ba4fb7c204d7c5f344259078 data\betterdeco\loot_tables\blocks\plastic_block.json
