@@ -7,6 +7,7 @@
 - Add missing textures for paper reams
 - Add missing textures for plastic blocks
 - Add missing textures for sealed paper reams
+- Change material for plastic and sealed paper reams from carpet to glass
 
 ### Items
 
