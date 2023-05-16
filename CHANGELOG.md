@@ -1,6 +1,6 @@
-# 1.0.0-alpha.1
+# 1.0.0-alpha.2
 
-This is the first version. This is still in alpha so bugs might be present. Please report bugs if you encounter them.
+# 1.0.0
 
 ## Additions
 
