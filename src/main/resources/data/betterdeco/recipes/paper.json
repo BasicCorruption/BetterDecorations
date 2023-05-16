@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "paper",
+  "ingredients": [
+    {
+      "item": "betterdeco:paper_ream"
+    }
+  ],
+  "result": {
+    "item": "minecraft:paper",
+    "count": 9
+  }
+}
