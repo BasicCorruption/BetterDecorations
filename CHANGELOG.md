@@ -4,14 +4,17 @@
 
 ### Blocks
 
-- Add missing textures for paper reams
-- Add missing textures for plastic blocks
-- Add missing textures for sealed paper reams
-- Change material for plastic and sealed paper reams from carpet to glass
+- Andesite Tile
+- Granite Tile
+- Diorite Tile
 
 ### Items
 
 - Add missing textures for plastic sheets
+
+## Fixes
+
+- [GH-1](https://github.com/BasicCorruption/BetterDecorations/issues/1) Plastic and sealed paper ream textures missing
 
 # 1.0.0
 

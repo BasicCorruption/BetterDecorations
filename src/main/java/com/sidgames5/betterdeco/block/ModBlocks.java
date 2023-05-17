@@ -20,6 +20,9 @@ public class ModBlocks {
     public static final Block PAPER_REAM = registerBlock("paper_ream", new Block(FabricBlockSettings.of(Material.CARPET).strength(0.0F, 0.0F)), ItemGroups.COLORED_BLOCKS);
     public static final Block PLASTIC_BLOCK = registerBlock("plastic_block", new Block(FabricBlockSettings.of(Material.GLASS).strength(1.0F, 1.0F)), ItemGroups.BUILDING_BLOCKS);
     public static final Block SEALED_PAPER_REAM = registerBlock("sealed_paper_ream", new Block(FabricBlockSettings.of(Material.GLASS).strength(0.2F, 0.2F)), ItemGroups.COLORED_BLOCKS);
+    public static final Block ANDESITE_TILE = registerBlock("andesite_tile", new Block(FabricBlockSettings.of(Material.GLASS).strength(1.5F, 6.0F)), ItemGroups.BUILDING_BLOCKS);
+    public static final Block GRANITE_TILE = registerBlock("granite_tile", new Block(FabricBlockSettings.of(Material.GLASS).strength(1.5F, 6.0F)), ItemGroups.BUILDING_BLOCKS);
+    public static final Block DIORITE_TILE = registerBlock("diorite_tile", new Block(FabricBlockSettings.of(Material.GLASS).strength(1.5F, 6.0F)), ItemGroups.BUILDING_BLOCKS);
 
 
 
