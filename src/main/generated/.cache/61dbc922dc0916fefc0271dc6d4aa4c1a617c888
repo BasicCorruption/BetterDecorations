@@ -1,4 +1,8 @@
-// 1.19.3	2023-05-16T17:21:56.3135347	Better Decorations/Block Loot Tables
+// 1.19.3	2023-05-17T16:57:24.7680467	Better Decorations/Block Loot Tables
 cc2fcf1c1f65b15559c315a8545bc2a3ffcd4e4e data\betterdeco\loot_tables\blocks\paper_ream.json
+523c8baa3fa9308ffe3c45faa448b23c97830c47 data\betterdeco\loot_tables\blocks\diorite_tile.json
 15bc5f62fcda42bcd372213efc471fb15ca1cfa2 data\betterdeco\loot_tables\blocks\sealed_paper_ream.json
+a4496fcc63fbfca533061ee1895fdc99a3c31670 data\betterdeco\loot_tables\blocks\granite_tile.json
+d16365807d55fededf02f2b188bf4d5a7094646f data\betterdeco\loot_tables\blocks\andesite_tile.json
 564814b49acebe15ba4fb7c204d7c5f344259078 data\betterdeco\loot_tables\blocks\plastic_block.json
+3d9c9a039bee9a3a8256fda48d236340eed8af72 data\betterdeco\loot_tables\blocks\drop_ceiling_tile.json
