@@ -7,6 +7,7 @@
 - Andesite Tile
 - Granite Tile
 - Diorite Tile
+- Drop Ceiling Tile
 
 ### Items
 

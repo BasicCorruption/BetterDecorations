@@ -23,6 +23,7 @@ public class ModBlocks {
     public static final Block ANDESITE_TILE = registerBlock("andesite_tile", new Block(FabricBlockSettings.of(Material.GLASS).strength(1.5F, 6.0F)), ItemGroups.BUILDING_BLOCKS);
     public static final Block GRANITE_TILE = registerBlock("granite_tile", new Block(FabricBlockSettings.of(Material.GLASS).strength(1.5F, 6.0F)), ItemGroups.BUILDING_BLOCKS);
     public static final Block DIORITE_TILE = registerBlock("diorite_tile", new Block(FabricBlockSettings.of(Material.GLASS).strength(1.5F, 6.0F)), ItemGroups.BUILDING_BLOCKS);
+    public static final Block DROP_CEILING_TILE = registerBlock("drop_ceiling_tile", new Block(FabricBlockSettings.of(Material.METAL).strength(1.5F, 6.0F)), ItemGroups.BUILDING_BLOCKS);
 
 
 

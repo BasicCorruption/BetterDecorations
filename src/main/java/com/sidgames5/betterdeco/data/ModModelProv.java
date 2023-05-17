@@ -21,6 +21,7 @@ public class ModModelProv extends FabricModelProvider {
         blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.ANDESITE_TILE);
         blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.GRANITE_TILE);
         blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.DIORITE_TILE);
+        blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.DROP_CEILING_TILE);
     }
 
     @Override

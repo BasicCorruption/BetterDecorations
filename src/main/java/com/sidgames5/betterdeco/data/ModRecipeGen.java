@@ -26,14 +26,24 @@ public class ModRecipeGen extends FabricRecipeProvider {
         offerReversibleCompactingRecipes(exporter, RecipeCategory.DECORATIONS, ModItems.PLASTIC_SHEET, RecipeCategory.DECORATIONS, ModBlocks.PLASTIC_BLOCK);
 
         ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModBlocks.SEALED_PAPER_REAM)
-                        .pattern("PPP")
-                        .pattern("PBP")
-                        .pattern("PPP")
-                        .input('P', ModItems.PLASTIC_SHEET)
-                        .input('B', ModBlocks.PAPER_REAM)
+                .pattern("PPP")
+                .pattern("PBP")
+                .pattern("PPP")
+                .input('P', ModItems.PLASTIC_SHEET)
+                .input('B', ModBlocks.PAPER_REAM)
                 .criterion(FabricRecipeProvider.hasItem(ModItems.PLASTIC_SHEET), FabricRecipeProvider.conditionsFromItem(ModItems.PLASTIC_SHEET))
                 .criterion(FabricRecipeProvider.hasItem(ModBlocks.PAPER_REAM), FabricRecipeProvider.conditionsFromItem(ModBlocks.PAPER_REAM))
-                        .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModBlocks.SEALED_PAPER_REAM)));
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModBlocks.SEALED_PAPER_REAM)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModBlocks.DROP_CEILING_TILE)
+                .pattern("III")
+                .pattern("ICI")
+                .pattern("III")
+                .input('I', Items.IRON_NUGGET)
+                .input('C', Blocks.CALCITE)
+                .criterion(FabricRecipeProvider.hasItem(Items.IRON_NUGGET), FabricRecipeProvider.conditionsFromItem(Items.IRON_NUGGET))
+                .criterion(FabricRecipeProvider.hasItem(Blocks.CALCITE), FabricRecipeProvider.conditionsFromItem(Blocks.CALCITE))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModBlocks.DROP_CEILING_TILE)));
 
         offerStonecuttingRecipe(exporter, RecipeCategory.MISC, ModBlocks.ANDESITE_TILE, Blocks.POLISHED_ANDESITE);
         offerStonecuttingRecipe(exporter, RecipeCategory.MISC, ModBlocks.GRANITE_TILE, Blocks.POLISHED_GRANITE);

@@ -23,5 +23,6 @@ public class ModLootTableGen extends FabricBlockLootTableProvider {
         addDrop(ModBlocks.ANDESITE_TILE);
         addDrop(ModBlocks.GRANITE_TILE);
         addDrop(ModBlocks.DIORITE_TILE);
+        addDrop(ModBlocks.DROP_CEILING_TILE);
     }
 }
