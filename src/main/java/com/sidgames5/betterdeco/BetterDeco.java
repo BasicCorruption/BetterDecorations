@@ -1,6 +1,7 @@
 package com.sidgames5.betterdeco;
 
 import com.sidgames5.betterdeco.block.ModBlocks;
+import com.sidgames5.betterdeco.item.ModItemGroup;
 import com.sidgames5.betterdeco.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -21,6 +22,7 @@ public class BetterDeco implements ModInitializer {
 
         LOGGER.info("Loading BetterDeco");
 
+        ModItemGroup.registerItemGroups();
         ModItems.registerModItems();
         ModBlocks.registerModBlocks();
 

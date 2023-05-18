@@ -11,7 +11,11 @@
 
 ### Items
 
-- Add missing textures for plastic sheets
+- Added missing textures for plastic sheets
+
+### Misc
+
+- Added a custom item group
 
 ## Fixes
 
